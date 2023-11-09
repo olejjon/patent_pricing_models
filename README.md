@@ -21,10 +21,10 @@
 <H3>Тесты:</H3>
  - Запустить тесты можно с помощью ```pytest```
 
-  ![img_1.png](img_1.png)
+  ![img_1.png](media/img_1.png)
 <H3>Coverage:</H3>
 ✅ Код покрыт тестами минимум на 75%
- - ![img.png](img.png)
+ - ![img.png](media/img.png)
 <H3>Flake8:</H3>
 ✅ Код оформлен согласно pep8
-![img_2.png](img_2.png)
+![img_2.png](media/img_2.png)
