@@ -7,6 +7,7 @@
  - python 3.11
  - postgresql
 <H3>Варианты моделей прогнозирования:</H3>
+
  - Линейная регрессия(LinearRegression)
  
  - Метод случайного леса(RandomForest)
